@@ -1,2 +1,5 @@
-# Projeto-TCC---GAME
-Repositório destinado aos arquivos do nosso projeto de TCC - GAME
+# Projeto-TCC - GAME
+> Versão Protótipo do projeto.
+
+Repositório destinado aos arquivos de protótipos do projeto de TCC - GAME.
+
